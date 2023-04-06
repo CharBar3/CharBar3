@@ -1,6 +1,27 @@
-## Hi there 👋 My name is Charles! 
+# Hi there 👋 My name is Charles! 
 
-I'm a Softwanre Engineer 
+I'm a Full Stack Software Engineer.
+
+My most **AND** least favorite thing about technology is there is so much to learn. I want to know everything there is to know about web development but I don't have enough time on this planet to learn it all. Despite this fact I've narrowed down some fantastic choices to focus on! 
+
+## My Current Stack 
+
+### Frontend
+
+1. React.js
+2. Next.js
+3. Material UI
+4. TypeScript
+5. Flutter
+6. Dart
+
+### Backend 
+
+1. Firebase
+3. Express.js
+
+I've also done some work with Django/Python but those are currently on the back burner! 
+
 
 If you're interested in chatting here is how to reach me 📫
 
