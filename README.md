@@ -25,8 +25,8 @@ I've also done some work with Django/Python but those are currently on the back 
 
 If you're interested in chatting here is how to reach me 📫
 
-[<img style="height:100px; width: 100px;" src="https://img.icons8.com/color/344/linkedin.png">](https://www.linkedin.com/in/charlesbartlett2022/)
-[<img style="height:90px; width: 90px;" src="https://theme.zdassets.com/theme_assets/1024340/78b0cd1ea78d2763fb98cb466ef065903b5efc0b.png">](https://calendly.com/charbar3/30min)
+[<img style="height:100px; width: 100px;" target="_blank" src="https://img.icons8.com/color/344/linkedin.png">](https://www.linkedin.com/in/charlesbartlett2022/)
+[<img style="height:100px; width: 100px;" target="_blank" src="https://theme.zdassets.com/theme_assets/1024340/78b0cd1ea78d2763fb98cb466ef065903b5efc0b.png">](https://calendly.com/charbar3/30min)
 
 
 
