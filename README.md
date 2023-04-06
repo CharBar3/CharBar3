@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Engineer.
 
-My most **AND** least favorite thing about technology is there is so much to learn. I want to know everything there is to know about web development but I don't have enough time on this planet to learn it all. Despite this fact I've narrowed down some fantastic choices to focus on! 
+My most **AND** least favorite thing about technology is there is so much to learn. I want to know everything there is to know about web development but I don't have enough time on this planet to learn it all. Despite this fact I've narrowed down some fantastic technologies to focus on! 
 
 ## My Current Stack 
 
