@@ -1,10 +1,6 @@
 ## Hi there 👋 My name is Charles! 
 
-I’m a Software Engineer! I love coding and am working on growing my skills as a developer. 
-
-## A little more about me...
-
-![alt text](https://i.imgur.com/JE0vxMt.png)
+I'm a Softwanre Engineer 
 
 If you're interested in chatting here is how to reach me 📫
 
