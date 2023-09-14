@@ -12,8 +12,6 @@ My most **AND** least favorite thing about technology is there is so much to lea
 2. Next.js
 3. Material UI
 4. TypeScript
-5. Flutter
-6. Dart
 
 ### Backend 
 
